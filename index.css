@@ -1,0 +1,100 @@
+.engkatabox{
+    width: 1200px;
+    height: 800px;
+    margin: auto;
+   background-color: azure;
+}
+
+
+
+.box1{
+    position: relative;
+    top: 10px;
+   
+}
+.a1{
+    position: relative;
+    left: 400px;
+    top: -50px;
+}
+.z{ position: relative;
+    background-color: rgb(143, 143, 209);
+    border-radius: 10px;
+    left: 520px;
+}
+.box2{
+    position: relative;
+    margin: auto;
+    background-color: rgba(255, 255, 255, 0.979);
+    width: 1200px;
+    height: 200px;
+}
+button{
+    background-color: rgb(76, 111, 226);
+    text-align: center;
+    width: 150px;
+    height: 30px;
+    border-radius: 5px;
+    color: aliceblue;
+}
+h1{
+    color: rgb(78, 78, 197);
+}
+.s{
+    position: relative;
+    left: 200px;
+}
+.d{
+    position: relative;
+    left: 240px;
+}
+.f{
+    position:relative;
+    left: 280px;
+
+}
+.g{
+    position: relative;
+    left: 320px;
+}
+.h{
+    position: relative;
+    left: 360px;
+}
+.j{
+    position: relative;
+    left: 400px;
+}
+.k{
+    position: relative;
+    left: 440px;
+}
+.l{
+    position: relative;
+    left: 480px;
+}
+hr{
+    position: relative;
+    top: -30px;
+}
+.box3{
+    display: grid;
+    grid-template-columns: 300px 300px 300px 300px ;
+    grid-template-rows: 400px  400px 300px ;
+    gap: 10px;
+}
+.item1{
+    background-color: aqua;
+}
+.item2{
+    background-color: aqua;
+}
+.item3{
+    background-color: aquamarine;
+}
+.item4{
+    background-color: aqua;
+}
+.bx{
+    text-align: center;
+}
